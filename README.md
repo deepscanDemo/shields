@@ -16,6 +16,7 @@
              alt="build status">
     </a>
 </p>
+[![DeepScan Grade](http://a5811e54.ngrok.io/api/projects/329/branches/268/badge/grade.svg)](http://dev.deepscan.io:5001/lite/#view=project&pid=329&bid=268)
 <p align="center"><sup><strong>An image server for legible and concise information. Our <a href="http://shields.io/">Homepage</a> | <a href="https://twitter.com/shields_io">Twitter</a></strong></sup></p>
 
 * **[INSTALL](INSTALL.md)** – installation instructions.
